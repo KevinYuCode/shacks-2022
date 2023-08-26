@@ -1,4 +1,4 @@
-# shacks-2022
+# shacks-2022 (Third Place Receipients)
 Repo for SHACKS 2022 - The Scotiabank hackathon.
 
 ### Ensure Python virtual environment is added to `.gitignore` main file.
